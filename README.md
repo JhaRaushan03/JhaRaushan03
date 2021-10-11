@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science using Python and R
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on github for new learnings in Python
-- 📫 How to reach me via E-mail - raushanjha1510@gmail.com
+- 📫 How to reach me via E-mail - er.jharaushan@gmail.com
 
 <!---
 JhaRaushan03/JhaRaushan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
